@@ -19,12 +19,12 @@ react-native run-android
 ```
 **Not: İlgili yerlerdeki IP adreslerini değiştirmeyi unutmayın.** <br/>
 ## Örnek
-Server tarafında basit haber ekleme kısmı:<br/>
+**Server tarafında basit haber ekleme kısmı:**
 
 ![](Resim-Video/haberEkle.png)
 
 
-Mobil kısmından örnek: <br/>
+**Mobil kısmından örnek:**
 
 ![](Resim-Video/mobil.gif)
 
