@@ -25,12 +25,12 @@ react-native run-android
 ## Örnek
 **Server tarafında basit haber ekleme kısmı:**
 
-![](Resim-Video/haberEkle.png)
+![](Demo/haberEkle.png)
 
 
 **Mobil kısmından örnek:**
 
-![](Resim-Video/mobil.gif)
+![](Demo/mobil.gif)
 
 ## Lisans
 [MIT](https://github.com/ridvankaplan/Haber-Uygulamasi/blob/master/LICENSE)
