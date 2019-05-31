@@ -1,4 +1,4 @@
-﻿# Haber-Uygulamasi
+﻿# Mobil Haber Uygulaması
  
 Bölümümüzde 3.Sınıf derslerinden yazılım laboratuvarı 2 dersinin 2. projesidir.
 <br/> <br/>
